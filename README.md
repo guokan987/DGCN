@@ -35,3 +35,5 @@ Please leave a message in the issue area with English or Chinese. You can also e
 ***The each epoch's save Pytorch model (stat_dict) file in the following website, if you are interested in each epoch's details in our model training phase, please see it!
 
 weibsite：https://pan.baidu.com/s/1EVYLbO3V0ulFsDjpcMMM2g key：kzey
+
+Our new work has accepted by AAAI2021, if you have interest, please go to https://github.com/guokan987/HGCN.
