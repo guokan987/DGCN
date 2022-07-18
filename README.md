@@ -1,3 +1,9 @@
+Updata 1:
+
+2022/7/18
+Please Emails:guokan.cn@gmail.com to contact me;
+邮箱地址以更换为：guokan.cn@gmail.com。
+
 The public code of DGCN in T-ITS with Pytorch 1.2.0 based on Titan RTX 24G GPU
 
 This is a document for this code++++++++++++++++++++++++++++++++++++++++++++++++++++++++=>
